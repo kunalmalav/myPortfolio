@@ -115,9 +115,9 @@ nav ul li a:hover:after {
 
 .bottomright {
   position: absolute;
-  bottom: 8px;
-  right: 10px;
-  font-size: 7px;
+  bottom: 150px;
+  right: 120px;
+  font-size: 12px;
 }
 
 .bottomright {
